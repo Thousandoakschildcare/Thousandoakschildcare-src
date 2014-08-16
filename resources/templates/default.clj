@@ -37,16 +37,23 @@
     [:div
      {:class "pages"}
      [:a {:href "/", :class "page"} "Home"] " | "
-     [:a {:href "/archives.html", :class "page"} "Archives"] " | "
-     [:a {:href "/tags/", :class "page"} "Tags"] " | "
-     [:a {:href "/contact.html", :class "page" :rel "author"} "About"]
+     [:a {:href "/contact.html", :class "page" :rel "author"} "About"] " | "
+     [:a {:href "/activities.html", :class "page" } "Activities"] " | "
+     [:a {:href "/food.html", :class "page" } "Food"] " | "
+     ;;    [:a {:href "/archives.html", :class "page"} "Archives"] " | "
+     ;;    [:a {:href "/tags/", :class "page"} "Tags"] " | "
+     [:a {:href "/photos.html", :class "page" } "Photos"] " | "
+     [:a {:href "/praises.html", :class "page" } "Testimonies"] " | "
+     [:a {:href "/enrollment.html", :class "page" } "Enrollment"]
 
-     [:form {:method "get"
-	     :action "http://www.google.com/search" :id "searchform"}
-      [:div
-       [:input {:type "text" :name "q" :class "box" :id "s"}]
-       [:input {:type "hidden" :name "sitesearch"
-		:value "www.thousandoakschildcare.com"}]]]]]
+
+     ;; [:form {:method "get"
+     ;;         :action "http://www.google.com/search" :id "searchform"}
+     ;;  [:div
+     ;;   [:input {:type "text" :name "q" :class "box" :id "s"}]
+     ;;   [:input {:type "hidden" :name "sitesearch"
+     ;;    	:value "www.thousandoakschildcare.com"}]]]
+     ]]
    [:div
     {:id "content"}
     [:div

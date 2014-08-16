@@ -1,0 +1,6 @@
+#+TITLE: Photos
+#+OPTIONS: toc:nil num:nil
+
+* Inside
+
+* Outside

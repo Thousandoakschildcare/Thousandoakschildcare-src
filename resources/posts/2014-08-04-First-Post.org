@@ -1,0 +1,4 @@
+#+title: First Post
+#+tags: info
+
+This is a First Post.

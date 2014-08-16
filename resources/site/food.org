@@ -1,0 +1,4 @@
+#+TITLE: Food
+#+OPTIONS: toc:nil num:nil
+
+We provide organic, locally grown snacks and meals daily. Special dietary needs can be accommodated.
