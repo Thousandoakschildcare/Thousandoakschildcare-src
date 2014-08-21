@@ -3,4 +3,41 @@
 
 * Inside
 
+#+begin_html
+<p><center>
+<img src="/images/inside_room1.jpg" width="600" />
+</p>
+<img src="/images/inside_train_track.jpg" width="300" />
+<img src="/images/inside_beds_horse.jpg" width="300" />
+<img src="/images/inside_blackboards.jpg" width="300" />
+<img src="/images/inside_games_closet.jpg" width="300" />
+<img src="/images/inside_play_kitchen.jpg" width="300" />
+<img src="/images/inside_room2.jpg" width="300" />
+<img src="/images/inside_table.jpg" width="300" />
+<img src="/images/inside_room1_rocking_chair.jpg" width="300" />
+<img src="/images/inside_toolshed.jpg" width="300" />
+<img src="/images/inside_room1_bed_rocking_chair.jpg" width="300" />
+<img src="/images/inside_table_eating.jpg" width="300" />
+<img src="/images/inside_trucks.jpg" width="300" />
+
+</center></p>
+#+end_html
+
 * Outside
+
+#+begin_html
+<p>
+<center>
+<img src="/images/outside_tree.jpg" width="300" />
+<img src="/images/outside_sun_shadows.jpg" width="300" />
+
+<img src="/images/outside_bench.jpg" width="300" />
+<img src="/images/outside_cycles.jpg" width="300" />
+<img src="/images/outside_gravels.jpg" width="300" />
+<img src="/images/outside_plants.jpg" width="300" />
+<img src="/images/outside_playground.jpg" width="300" />
+<img src="/images/outside_sandbox.jpg" width="300" />
+<img src="/images/outside_table.jpg" width="300" />
+</center>
+</p>
+#+end_html

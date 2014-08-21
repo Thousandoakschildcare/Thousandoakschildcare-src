@@ -1,6 +1,12 @@
 #+TITLE: Celia Sherman's Day Care in Thousand Oaks Berkeley, California
 #+OPTIONS: toc:nil num:nil
 
+
+#+begin_html
+  <p><center><img src="/images/outside_blue_door.jpg" width="200" /></center></p>
+#+end_html
+
+
 * Description
 
 Thousand Oaks DayCare is a small, home-based daycare located in North
@@ -11,6 +17,10 @@ approach to learning with an emphasis on discovery and  self-expression. We
 provide organic, locally grown snacks and meals daily. Special dietary needs can
 be accommodated. The childcare is spacious, full of natural light, with lots of
 toys for both indoor and outdoor play.
+
+#+begin_html
+  <p><center><img src="/images/inside_room1.jpg" width="300" /><img src="/images/outside_gravels.jpg" width="300" /></center></p>
+#+end_html
 
 
 * Openings

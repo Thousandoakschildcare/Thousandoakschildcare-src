@@ -1,4 +1,4 @@
-#+TITLE: Enrollement
+#+TITLE: Enrollment
 #+OPTIONS: toc:nil num:nil
 
 * Hours
@@ -7,17 +7,17 @@ Friday.
 
 * Holidays
 
-- 2014-09-01 Mon Labor day
+- 2014-09-01 Mon Labor Day
 - 2014-10-13 Mon Indigenous People’s Day
 - 2014-11-26 Wed → 2014-11-28 Fri Thanksgiving Week
-- 2014-12-19 Wed → 2015-01-02 Fri Winter Break (closed after 2014-12-19 Wed reopens on 2015-01-05 Mon)
+- 2014-12-19 Fri → 2015-01-02 Fri Winter Break (closed after 2014-12-18 Thu reopens on 2015-01-05 Mon)
 - 2015-01-19 Mon Martin Luther King Day
 - 2015-02-16 Mon President’s Day
 - 2015-04-03 Fri  Easter Weekend
 - 2015-05-25 Mon Memorial Day
 - 2015-07-04 Mon 4^{th} of July
 - Summer Vacation – TBD
-- 2015-09-01 Tue Labor
+- 2015-09-07 Tue Labor Day
 - 2015-10-12 Mon Indigenous People’s Day
 - Winter Break – TBD
 

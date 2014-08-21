@@ -1,1 +1,22 @@
 #+TITLE: Testimonies
+
+
+#+BEGIN_QUOTE
+Both of our daughters currently attend Thousand Oaks Daycare (ages 1 and 3) and we highly recommend it. We visited many dark, dreary in-home daycares and several large, impersonal daycare centers. Celia's space is truly special. The daycare is separate from her home and is clean and bright with a great selection of toys and books and a beautiful garden.
+
+Celia is an intelligent, kind, and fun caregiver. She takes the children on neighborhood walks, cooks them nutritious meals, and provides lots of love and caring. Our oldest daughter clearly loves her and is always telling us about the fun and interesting things that happen during her day. Our baby lights up when we arrive with a huge smile for Celia. Celia also has been really sensitive to our parenting style and I enjoy talking to her each day.
+
+Various members of her family have helped out from time to time and they are
+all wonderful people who clearly love being around children. We feel incredibly lucky to have found Thousand Oaks Daycare. I'd be happy to answer any questions about our experience.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+We wholeheartedly recommend Celia Roe and Thousand Oaks Childcare to families seeking an exceptional childcare experience.  When looking for our first childcare provider, we wanted to find a loving, nurturing environment - one that felt like leaving our son with family.  We are overjoyed to have found that with Celia Roe at Thousand Oaks Childcare. Our son has been with Celia for two years and we are so pleased with his growth, both socio-emotional and physical, in her care.  As first-time parents, we are so grateful to have had Celia in our corner as a partner.  Celia has dealt with the each of the developmental milestones of toddler-dom in her charges with grace, wisdom, patience, and respect. Not only has she helped me navigate some of the tougher learning curves, like potty training, she has respected and supported values and behaviors we were trying to work on as a family, like helping to teach our only child the art of communicating needs and sharing with others. Through Celia’s patient, gentle, support, he has learned to cooperate with others, try new foods, stick to a nap schedule, and be a conscientious playmate.
+
+We love that his days are filled with rich and varied play experiences including outdoor play time and neighborhood excursions. Celia takes care to fill the children’s environment with developmentally appropriate books, music, and playthings. My notoriously picky eater will now eat raw vegetables thanks to his experiences in her garden.
+
+We appreciate knowing that he is not only very well-supervised and has his physical needs met, but that he is truly loved and nurtured. Our son can’t wait to go see Celia every morning, and even asks to go there on the weekends!  We love Celia and are pleased to share our experiences with anyone considering Thousand Oaks Childcare.
+
+#+END_QUOTE
+
+Other reviews can be found on [[http://parents.berkeley.edu/recommend/preschool/thousandoaks.html][the Berkeley Parents Network website]].
