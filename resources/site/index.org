@@ -3,7 +3,7 @@
 
 
 #+begin_html
-  <p><center><img src="/images/outside_blue_door.jpg" width="200" /></center></p>
+  <p><center><img src="/images/200x_outside_blue_door.jpg" /></center></p>
 #+end_html
 
 
@@ -19,7 +19,7 @@ be accommodated. The childcare is spacious, full of natural light, with lots of
 toys for both indoor and outdoor play.
 
 #+begin_html
-  <p><center><img src="/images/inside_room1.jpg" width="300" hspace="64"/> <img src="/images/outside_gravels.jpg" width="300" /></center></p>
+  <p><center><img src="/images/300x_inside_room1.jpg" hspace="64"/> <img src="/images/300x_outside_gravels.jpg" /></center></p>
 #+end_html
 
 

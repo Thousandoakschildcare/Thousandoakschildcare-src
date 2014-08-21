@@ -4,7 +4,7 @@
 * Celia
 
 #+begin_html
-<p><center><img src="/images/Celia.jpg" width="300" /></center></p>
+<p><center><img src="/images/300x_Celia.jpg" /></center></p>
 #+end_html
 
 
