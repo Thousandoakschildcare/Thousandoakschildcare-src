@@ -6,7 +6,7 @@
    {:http-equiv "content-type", :content "text/html; charset=UTF-8"}]
   [:meta {:name "description", :content (:description metadata)}]
   [:meta {:name "keywords", :content (:tags metadata)}]
-  [:meta {:name "author", :content "Celia Sherman"}]
+  [:meta {:name "author", :content "Celia Roe"}]
   [:link {:rel "icon",
 	  :href "/images/favicon.ico" :type "image/x-icon"}]
   [:link {:rel "shortcut icon",
@@ -33,7 +33,7 @@
       {:href "/"}
       "Thousand Oaks Child Care"
    ;;   [:span {:class "fade-small"} "dot"]
-      [:span {:class "fade-small"} " by Celia Sherman"]]]
+      [:span {:class "fade-small"} " by Celia Roe"]]]
     [:div
      {:class "pages"}
      [:a {:href "/", :class "page"} "Home"] " | "
@@ -91,5 +91,5 @@
     {:id "footer"}
     [:a {:href "/rss-feed"} " RSS Feed"]
     [:p "&copy; 2014"
-     [:a {:href "http://www.thousandoakschildcare.com"} " Celia Sherman"]]]]
+     [:a {:href "http://www.thousandoakschildcare.com"} "Celia Roe"]]]]
 ]]
