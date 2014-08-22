@@ -32,7 +32,7 @@
      [:a
       {:href "/"}
       "Thousand Oaks Child Care"
-   ;;   [:span {:class "fade-small"} "dot"]
+      [:span {:class "fade-medium"} "in Berkeley"]
       [:span {:class "fade-small"} " by Celia Roe"]]]
     [:div
      {:class "pages"}
