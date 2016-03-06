@@ -24,15 +24,7 @@ toys for both indoor and outdoor play.
 
 
 * Openings
-<<<<<<< HEAD
-Part-time opening available Monday, Wednesday and Thursday starting in September.
-
-=======
-There are currently full-time openings available in September. Part-time
-opening available Monday, Wednesday and Thursday starting in
-July. Possibility to start in June but the days available would be
-Tuesday, Thursday and Friday for that month.
->>>>>>> parent of f5871ec... re part-time opening
+There is currently a part-time and a full-time opening available in September 2016 for a 2 year-old. 
 
  Thousand Oaks Daycare is open from 8AM-5:30PM, Monday through
 Friday. Please [[mailto:thousandoakschildcare@gmail.com][contact Celia]] to schedule a visit. I look forward to meeting your
